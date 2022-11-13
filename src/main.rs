@@ -72,7 +72,7 @@ fn do_replacements(output_format: &String, input_file: InputFile) -> String
         .replace("$foreground", &input_file.foreground)
         .replace("$yellow", &input_file.yellow)
         .replace("$magenta", &input_file.magenta)
-        .replace("$cyan", &input_file.background)
+        .replace("$cyan", &input_file.cyan)
 }
 
 
