@@ -1,0 +1,26 @@
+window:
+  opacity: 0.9
+
+colors:
+  primary:
+    background: '$background'
+    foreground: '$foreground'
+    dim_foreground: '$foreground.dim'
+  normal:
+    black: '$black'
+    red: '$red'
+    green: '$green'
+    yellow: '$yellow'
+    blue: '$blue'
+    magenta: '$magenta'
+    cyan: '$cyan'
+    white: '$white'
+  bright:
+    black: '$black.bright'
+    red: '$red.bright'
+    green: '$green.bright'
+    yellow: '$yellow.bright'
+    blue: '$blue.bright'
+    magenta: '$magenta.bright'
+    cyan: '$cyan.bright'
+    white: '$white.bright'
